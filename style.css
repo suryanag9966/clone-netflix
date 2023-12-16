@@ -39,7 +39,8 @@ nav {
 
 nav img {
     color: red;
-    width: 130px;
+    background-color: black;
+    width: 190px;
     position: relative;
     z-index: 10;
 }
